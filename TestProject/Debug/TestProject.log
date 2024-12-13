@@ -1,0 +1,3 @@
+﻿  TestProject.cpp
+C:\Users\clutc\source\repos\TestProject\TestProject.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+  TestProject.vcxproj -> C:\Users\clutc\source\repos\TestProject\Debug\TestProject.exe
